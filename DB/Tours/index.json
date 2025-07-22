@@ -1,0 +1,208 @@
+[
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "origin": {
+      "id": "1",
+      "name": "Tehran",
+      "fa_name": "تهران"
+    },
+    "destination": {
+      "id": "2",
+      "name": "Sanandaj",
+      "fa_name": "سنندج"
+    },
+    "startDate": "2025-07-17T00:00:00.000Z",
+    "endDate": "2025-07-25T00:00:00.000Z",
+    "title": "تور کردستان",
+    "fleetVehicle": "Bus",
+    "price": 975000,
+    "availableSeats": 21,
+    "insurance": true,
+    "options": [
+      "هتل سه ستاره",
+      "راهنمای تور",
+      "ساحل اختصاصی",
+      "صبحانه، نهار و شام"
+    ],
+    "image": "/static/images/kurdestanTour.png"
+  },
+  {
+    "id": "b2c3d4e5-f678-90ab-cdef-234567890abc",
+    "origin": {
+      "id": "2",
+      "name": "Sanandaj",
+      "fa_name": "سنندج"
+    },
+    "destination": {
+      "id": "3",
+      "name": "Madrid",
+      "fa_name": "مادرید"
+    },
+    "startDate": "2025-08-02T22:00:00.000Z",
+    "endDate": "2025-08-16T07:00:00.000Z",
+    "title": "تور مادرید",
+    "fleetVehicle": "Van",
+    "price": 2400000,
+    "availableSeats": 13,
+    "insurance": false,
+    "options": [
+      "هتل پنج ستاره",
+      "راهنمای تور",
+      "نهار و شام"
+    ],
+    "image": "/static/images/madridTour.png"
+  },
+  {
+    "id": "c3d4e5f6-7890-abcd-ef12-34567890abcd",
+    "origin": {
+      "id": "4",
+      "name": "Isfahan",
+      "fa_name": "اصفهان"
+    },
+    "destination": {
+      "id": "5",
+      "name": "sulaymaniyah",
+      "fa_name": "سلیمانیه"
+    },
+    "startDate": "2025-09-20T05:00:00.000Z",
+    "endDate": "2025-09-25T12:00:00.000Z",
+    "title": "تور سلیمانیه",
+    "fleetVehicle": "SUV",
+    "price": 1375000,
+    "availableSeats": 39,
+    "insurance": true,
+    "options": [
+      "هتل پنج ستاره",
+      "نهار و صبحانه"
+    ],
+    "image": "/static/images/sulaymaniyahTour.png"
+  },
+  {
+    "id": "d4e5f678-90ab-cdef-1234-567890abcdef",
+    "origin": {
+      "id": "1",
+      "name": "Tehran",
+      "fa_name": "تهران"
+    },
+    "destination": {
+      "id": "6",
+      "name": "Hewler",
+      "fa_name": "تور هولیر"
+    },
+    "startDate": "2025-10-16T16:00:00.000Z",
+    "endDate": "2025-10-23T24:00:00.000Z",
+    "title": "هولیر",
+    "fleetVehicle": "Airplane",
+    "price": 3250000,
+    "availableSeats": 19,
+    "insurance": false,
+    "options": [
+      "هتل پنج ستاره",
+      "نهار و صبحانه"
+    ],
+    "image": "/static/images/arbilTour.png"
+  },
+  {
+    "id": "e5f67890-abcd-ef12-3456-7890abcdef12",
+    "origin": {
+      "id": "1",
+      "name": "Tehran",
+      "fa_name": "تهران"
+    },
+    "destination": {
+      "id": "7",
+      "name": "Mazandaran",
+      "fa_name": "مازندران"
+    },
+    "startDate": "2025-10-20T07:00:00.000Z",
+    "endDate": "2025-11-08T12:00:00.000Z",
+    "title": "تور مازندران",
+    "fleetVehicle": "SUV",
+    "price": 8460000,
+    "availableSeats": 300,
+    "insurance": true,
+    "options": [
+      "هتل پنج ستاره",
+      "نهار و صبحانه"
+    ],
+    "image": "/static/images/mazandaranTour.png"
+  },
+  {
+    "id": "f67890ab-cdef-1234-5678-90abcdef1234",
+    "origin": {
+      "id": "1",
+      "name": "Tehran",
+      "fa_name": "تهران"
+    },
+    "destination": {
+      "id": "8",
+      "name": "offRoad Center",
+      "fa_name": "آفرود"
+    },
+    "startDate": "2025-12-20T09:00:00.000Z",
+    "endDate": "2025-12-25T18:00:00.000Z",
+    "title": "تور آفرود",
+    "fleetVehicle": "Van",
+    "price": 1960000,
+    "availableSeats": 23,
+    "insurance": true,
+    "options": [
+      "هتل پنج ستاره",
+      "نهار و صبحانه"
+    ],
+    "image": "/static/images/offroadTour.png"
+  },
+  {
+    "id": "67890abc-def1-2345-6789-0abcdef12345",
+    "origin": {
+      "id": "1",
+      "name": "Tehran",
+      "fa_name": "تهران"
+    },
+    "destination": {
+      "id": "9",
+      "name": "Italy",
+      "fa_name": "ایتالیا"
+    },
+    "startDate": "2025-11-20T11:00:00.000Z",
+    "endDate": "2025-12-25T20:00:00.000Z",
+    "title": "تور ایتالیا",
+    "fleetVehicle": "Airplane",
+    "price": 6240000,
+    "availableSeats": 20,
+    "insurance": true,
+    "options": [
+      "هتل پنج ستاره",
+      "نهار و صبحانه",
+      "راهنمای تور"
+    ],
+    "image": "/static/images/italyTour.png"
+  },
+  {
+    "id": "61372abc-def1-2389-6789-06421def46701",
+    "origin": {
+      "id": "1",
+      "name": "Tehran",
+      "fa_name": "تهران"
+    },
+    "destination": {
+      "id": "10",
+      "name": "kish",
+      "fa_name": "کیش"
+    },
+    "startDate": "2025-11-18T15:00:00.000Z",
+    "endDate": "2025-12-01T21:00:00.000Z",
+    "title": "تور کیش",
+    "fleetVehicle": "Airplane",
+    "price": 7300000,
+    "availableSeats": 20,
+    "insurance": true,
+    "options": [
+      "هتل پنج ستاره",
+      "نهار و صبحانه",
+      "ساحل اختصاصی",
+      "راهنمای تور"
+    ],
+    "image": "/static/images/kishIlandTour.png"
+  }
+]
