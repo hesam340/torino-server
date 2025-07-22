@@ -43,7 +43,7 @@
     "title": "تور مادرید",
     "fleetVehicle": "Van",
     "price": 2400000,
-    "availableSeats": 13,
+    "availableSeats": 12,
     "insurance": false,
     "options": [
       "هتل پنج ستاره",
@@ -195,7 +195,7 @@
     "title": "تور کیش",
     "fleetVehicle": "Airplane",
     "price": 7300000,
-    "availableSeats": 20,
+    "availableSeats": 19,
     "insurance": true,
     "options": [
       "هتل پنج ستاره",
