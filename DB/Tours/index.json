@@ -43,7 +43,7 @@
     "title": "تور مادرید",
     "fleetVehicle": "Van",
     "price": 2400000,
-    "availableSeats": 12,
+    "availableSeats": 11,
     "insurance": false,
     "options": [
       "هتل پنج ستاره",
@@ -165,7 +165,7 @@
       "fa_name": "ایتالیا"
     },
     "startDate": "2025-11-20T11:00:00.000Z",
-    "endDate": "2025-12-25T20:00:00.000Z",
+    "endDate": "2025-12-05T20:00:00.000Z",
     "title": "تور ایتالیا",
     "fleetVehicle": "Airplane",
     "price": 6240000,
